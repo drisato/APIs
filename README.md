@@ -1,2 +1,2 @@
 # First-repository
-Exploratory Data Analysis
+This is my fist resposity, where I will same files for self study.
